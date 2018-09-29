@@ -47,3 +47,6 @@ Save by `^+O`.  Close nano by `^+X`
 
 Check that the crontab is set by entering the following in terminal
 `crontab -l`
+
+
+*This work is motivated by https://github.com/pipwerks/OS-X-Wallpaper-Changer and I would love to credit the author of the original script. The original script can be found in the URL mentioned*
