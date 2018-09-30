@@ -40,8 +40,8 @@ Open terminal and enter following
 `env EDITOR=nano crontab -e`
 
 Now in the nanoeditor in terminal window enter
-`*/15 * * * * /usr/bin/osascript /Users/YOUR_USER_NAME/Pictures/Wallpapers/HourlyWallpapers/wallpaper.scpt`
-This set-up makes the script run every 15 minutes
+`*/10 * * * * /usr/bin/osascript /Users/YOUR_USER_NAME/Pictures/Wallpapers/HourlyWallpapers/wallpaper.scpt`
+This set-up makes the script run every 10 minutes
 
 Save by `^+O`.  Close nano by `^+X`
 
